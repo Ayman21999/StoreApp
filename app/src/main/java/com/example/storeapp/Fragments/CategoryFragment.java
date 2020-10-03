@@ -1,7 +1,7 @@
 /**
  * Info about this package doing something for package-info.java file.
  */
-package com.example.storeapp.Fragments;
+ package com.example.storeapp.Fragments;
 
 import android.os.Bundle;
 
